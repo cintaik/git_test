@@ -6,7 +6,6 @@
 <body>
 	<?php echo "LOGIN TEST"; ?>
 	LOGIN TEST master kmoch
-
-	Login test master kmoch new
+	Login Test lain secondary_master
 </body>
 </html>
